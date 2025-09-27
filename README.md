@@ -5,7 +5,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Makaveli338&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Makaveli338&theme=merko&hide_border=false)
 
 
 
